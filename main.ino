@@ -8,8 +8,8 @@
 #include <WebServer.h>
 
 /*Put your SSID & Password*/
-const char* ssid = "RISKI";  // Enter SSID here
-const char* password = "enjoy66471";  //Enter Password here
+const char* ssid = "yourssid";  // Enter SSID here
+const char* password = "yourpassword";  //Enter Password here
 
 // Choose two Arduino pins to use for software serial
 int RXPin = 16; //Connect ke TX GPS
